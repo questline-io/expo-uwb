@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["UltraWideBandModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.uwb.UltraWideBandModule"]
+  }
+}

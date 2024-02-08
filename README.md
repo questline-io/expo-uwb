@@ -1,0 +1,1 @@
+New expo module with example project, as described in: https://docs.expo.dev/modules/get-started/#creating-a-new-module-with-an-example-project
